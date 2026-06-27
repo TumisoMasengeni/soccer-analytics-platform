@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Excel temporary files
+~$*.xlsx
+
+# SQL Server
+*.ldf
+*.mdf
+
+# Python
+__pycache__/
+
+# Logs
+*.log
